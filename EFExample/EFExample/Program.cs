@@ -12,7 +12,7 @@ namespace EFExample
         static void Main(string[] args)
         {
 
-
+            //correr la primera vez
             /**
 
             var dbContext = new InfoDBContext();
@@ -42,6 +42,9 @@ namespace EFExample
             dbContext.SaveChanges();
     */
 
+            //correr la segunda vez
+
+            /**
 
             var dbContext = new InfoDBContext();
             Student sergio = dbContext.Students.Where(e => e.ID == 7).FirstOrDefault();
@@ -50,6 +53,7 @@ namespace EFExample
                 Console.WriteLine(mod.Module.Name);
             }
 
+     **/
 
             Console.WriteLine("termino!");
             Console.ReadLine();
