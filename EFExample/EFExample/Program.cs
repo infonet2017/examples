@@ -47,7 +47,7 @@ namespace EFExample
             /**
 
             var dbContext = new InfoDBContext();
-            Student sergio = dbContext.Students.Where(e => e.ID == 7).FirstOrDefault();
+            Student sergio = dbContext.Students.Where(e => e.Name == "sergio").FirstOrDefault();
             foreach(var mod in sergio.Enrollments)
             {
                 Console.WriteLine(mod.Module.Name);
