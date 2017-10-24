@@ -1,0 +1,10 @@
+C:\Users\jaras\Documents\info 2017\examples\AspNetCoreEFEXample\AspNetCoreEFEXample\bin\Debug\netcoreapp2.0\AspNetCoreEFEXample.deps.json
+C:\Users\jaras\Documents\info 2017\examples\AspNetCoreEFEXample\AspNetCoreEFEXample\bin\Debug\netcoreapp2.0\AspNetCoreEFEXample.runtimeconfig.json
+C:\Users\jaras\Documents\info 2017\examples\AspNetCoreEFEXample\AspNetCoreEFEXample\bin\Debug\netcoreapp2.0\AspNetCoreEFEXample.runtimeconfig.dev.json
+C:\Users\jaras\Documents\info 2017\examples\AspNetCoreEFEXample\AspNetCoreEFEXample\bin\Debug\netcoreapp2.0\AspNetCoreEFEXample.dll
+C:\Users\jaras\Documents\info 2017\examples\AspNetCoreEFEXample\AspNetCoreEFEXample\bin\Debug\netcoreapp2.0\AspNetCoreEFEXample.pdb
+C:\Users\jaras\Documents\info 2017\examples\AspNetCoreEFEXample\AspNetCoreEFEXample\obj\Debug\netcoreapp2.0\AspNetCoreEFEXample.csproj.CoreCompileInputs.cache
+C:\Users\jaras\Documents\info 2017\examples\AspNetCoreEFEXample\AspNetCoreEFEXample\obj\Debug\netcoreapp2.0\AspNetCoreEFEXample.AssemblyInfoInputs.cache
+C:\Users\jaras\Documents\info 2017\examples\AspNetCoreEFEXample\AspNetCoreEFEXample\obj\Debug\netcoreapp2.0\AspNetCoreEFEXample.AssemblyInfo.cs
+C:\Users\jaras\Documents\info 2017\examples\AspNetCoreEFEXample\AspNetCoreEFEXample\obj\Debug\netcoreapp2.0\AspNetCoreEFEXample.dll
+C:\Users\jaras\Documents\info 2017\examples\AspNetCoreEFEXample\AspNetCoreEFEXample\obj\Debug\netcoreapp2.0\AspNetCoreEFEXample.pdb
